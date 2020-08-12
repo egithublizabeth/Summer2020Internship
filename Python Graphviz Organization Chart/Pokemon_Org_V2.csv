@@ -1,0 +1,14 @@
+ID,Name,Title,Reports To:
+0,Magneton\lExecutive,Executive,Magneton\lExecutive
+1,Staff\lDugtrio\lNidoking\lPoliwhirl\l,Staff,Magneton\lExecutive
+2,Mankey\lManager,Manager,Magneton\lExecutive
+3,Kabuto\lManager,Manager,Magneton\lExecutive
+4,Kakuna\lManager,Manager,Magneton\lExecutive
+5,Rhydon\lManager,Manager,Magneton\lExecutive
+6,Employees\lGloom\lPersian\lWeedle\lHaunter\lDratini\lRaticate\lPikachu\lTangela\lGolduck\lSlowbro\lNidorina\lCaterpie\lSandshrew\lClefable\lSlowpoke\lGastly\l,Staff,Mankey\lManager
+7,Employees\lPersian\lStarmie\lZapdos\lGrowlithe\lWigglytuff\lVenonat\lWeezing\lRaichu\lGolbat\lJigglypuff\lFlareon\lBlastoise\lPidgeotto\lArticuno\lWeepinbell\lWartortle\l,Staff,Mankey\lManager
+8,Employees\lVaporeon\lDragonair\lPorygon\lShellder\lVileplume\lArcanine\lOmastar\lNidoqueen\lVictreebel\lPidgey\lCharmander\lOmanyte\lMagnemite\lSeadra\lPinsir\lTentacruel\lSeaking\lMachop\lExeggutor\lOnix\lKabutops\lOddish\lPsyduck\lMeowth\lVenusaur\l,Staff,Kabuto\lManager
+9,Employees\lCubone\lPrimeape\lBeedrill\lSeel\lMarowak\lGolem\lMachamp\lSquirtle\lExeggcute\lDodrio\lGeodude\lTauros\lHypno\lVulpix\lMr. Mime\lLapras\lCharizard\lLickitung\lRapidash\lParasect\lJolteon\lDiglett\lRhyhorn\lCloyster\lNidoran\l,Staff,Kabuto\lManager
+10,Employees\lSlcyther\lClefairy\lMagikarp\lSpearow\lKoffing\lPidgeot\lVenomoth\lDewgong\lDrowzee\lGoldeen\lMoltres\lKangaskhan\lArbok\lBulbasaur\lCharmeleon\lPonyta\lIvysaur\lEevee\lSandslash\l,Staff,Kabuto\lManager
+11,Employees\lFearow\lFarfetch'd\lPoliwag\lKrabby\lHitmonchan\lHitmonlee\lAerodactyl\lPoliwrath\lSnorlax\lZubat\lEkans\lMetapod\lChansey\lKadabra\lGengar\lNinetales\lRattata\lGrimer\lMachoke\lJynx\lAbra\lDragonite\lDoduo\lDitto\lHorsea\lNidoran\lMewtwo\l,Staff,Kakuna\lManager
+12,Employees\lElectrode\lAlakazam\lNidorino\lMew\lBellsprout\lButterfree\lStaryu\lGyarados\lVoltorb\lGraveler\lParas\lElectabuzz\lMuk\lKingler\lTentacool\lMagmar\l,Staff,Rhydon\lManager
